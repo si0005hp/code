@@ -7,9 +7,9 @@
 // ----------------------------------------------------------------
 
 #pragma once
-#include <SDL/SDL_scancode.h>
-#include <SDL/SDL_gamecontroller.h>
-#include <SDL/SDL_mouse.h>
+#include <SDL_scancode.h>
+#include <SDL_gamecontroller.h>
+#include <SDL_mouse.h>
 #include "Math.h"
 
 // The different button states

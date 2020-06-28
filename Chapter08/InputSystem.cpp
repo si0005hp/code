@@ -7,7 +7,7 @@
 // ----------------------------------------------------------------
 
 #include "InputSystem.h"
-#include <SDL/SDL.h>
+#include <SDL.h>
 #include <cstring>
 
 bool KeyboardState::GetKeyValue(SDL_Scancode keyCode) const
