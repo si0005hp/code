@@ -13,7 +13,7 @@
 #include <fstream>
 #include <sstream>
 #include <rapidjson/document.h>
-#include <SDL/SDL_log.h>
+#include <SDL_log.h>
 #include "Math.h"
 
 Mesh::Mesh()

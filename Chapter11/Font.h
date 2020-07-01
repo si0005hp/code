@@ -9,7 +9,7 @@
 #pragma once
 #include <string>
 #include <unordered_map>
-#include <SDL/SDL_ttf.h>
+#include <SDL_ttf.h>
 #include "Math.h"
 
 class Font
